@@ -1,0 +1,19 @@
+<html>
+<body>
+<pre>
+<h1>µVision3 Build Log</h1>
+<h2>Project:</h2>
+D:\8051\led8051\ledwith8051.uv2
+Project File Date:  04/29/2015
+
+<h2>Output:</h2>
+Build target 'Target 1'
+compiling ledwith8051.c...
+linking...
+Program Size: data=9.0 xdata=0 code=56
+"ledwith8051" - 0 Error(s), 0 Warning(s).
+Build target 'Target 1'
+linking...
+Program Size: data=9.0 xdata=0 code=56
+creating hex file from "ledwith8051"...
+"ledwith8051" - 0 Error(s), 0 Warning(s).
